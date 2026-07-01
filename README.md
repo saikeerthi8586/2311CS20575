@@ -8,3 +8,5 @@ total notifications
 unread notifications and 
 high priortiy notifications
 
+screenshots:
+<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/a9ea4448-16b3-4a1a-84ec-13aea791f995" />
