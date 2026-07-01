@@ -1,7 +1,6 @@
 # 2311CS20575
 
-
-so here i have created a basic front end ui page for the notifications of the alerts 
+i have created a basic front end ui page for the notifications of the alerts 
 this consists of a search option where one can find there notifications
 
 these are being categorized in three levels:
