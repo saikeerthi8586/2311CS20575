@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>notification priority</title>
+        <!-- linking css -->
+        <link rel = "stylesheet" href="style.css"/>
+    </head>
+    <header class="top">
+        <!-- creating a search bar -->
+        <h2>alert notifications</h2>
+        <input type = "text" placeholder="search for notifications">
+    </header>
+<body>
+    <main>
+        <section class="overview">
+            <div class="start">
+                <!-- fisrtly it gives all the alerts as count -->
+                <h4>all alerts</h4>
+                <p id="total">25</p>
+            </div>
+
+            <div class="start">
+                <!-- unread notifications -->
+                <h4>unread</h4>
+                <p id="unread">15</p>
+            </div>
+            <div class="start">
+                <!-- most imp notifications which need to be viewed fst -->
+                <h4>high notification</h4>
+                <p id="high">10</p>
+            </div>    
+        </section>
+
+        <!-- for uunread msgs creating which has the highest priority and lowest -->
+        <selection class = "alerts">
+            <h4>top unread alters</h4>
+            <article class="alert">
+                <h4>team meeting notice</h4>
+                <p>
+                    Prority: high
+                </p>
+                <p>score: 8.5  </p>
+                <p>received: 2 hours ago</p>
+            </article>
+            <article class="alert">
+                <h4>new message from manager</h4>
+                <p>
+                    Prority: high
+                </p>
+                <p>score: 8.0  </p>
+                <p>received: 3 hours ago</p>
+
+            </article>
+            <article class="alert">
+                <h4>system update</h4>
+                <p>
+                    Prority: medium
+                </p>
+                <p>score: 6.5  </p>
+                <p>received: 5 hours ago</p>
+
+        </selection>
+    </main>
+    </body>
+    </html>
